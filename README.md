@@ -6,11 +6,15 @@ Find the project requirements here: [RSS feed reader in terminal](https://www.co
 ## Tech/framework used
 Built with Python
 
-## Screenshots and demo
-
-
 ## Installation
+You can create your own virtual environment and install the packages described in the requirements.txt file.
 
+After that, a simple python command will provide you the RSS feed.
+
+The python command:
+python requirements.txt
+
+You can find the sample output attached in the repository!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
